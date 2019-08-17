@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Elastic beanstalk with codepipeline withe developer tools with migration"
+echo "Hello World"
  ?>
 
 </body>
